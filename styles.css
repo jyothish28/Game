@@ -78,3 +78,34 @@ h4{
   background-image: -webkit-linear-gradient(top, #f2f0d3, #eef0da);
   text-decoration: none;
 }
+.wel{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  2%;
+  color: #FEF2BF;
+  line-height: 2;
+}
+.instructions{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  color: #FEF2BF;
+}
+.bot{
+  background: #02380a;
+  background-image: -webkit-linear-gradient(top, #FEF2BF, #e3c57f);
+  -moz-border-radius: 28;
+  border-radius: 0;
+  font-family: 'Press Start 2P', cursive;
+  color: #ffffff;
+  font-size: 36px;
+  padding: 10px 18px 10px 20px;
+  text-decoration: none;
+}
+
+.bot:hover {
+  background: #f2f0d3;
+  background-image: -webkit-linear-gradient(top, #f2f0d3, #eef0da);
+  text-decoration: none;
+}
